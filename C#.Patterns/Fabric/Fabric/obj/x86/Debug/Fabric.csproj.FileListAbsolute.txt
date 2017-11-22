@@ -1,0 +1,5 @@
+/Users/eshpilevskiy/Projects/Fabric/Fabric/bin/Debug/Fabric.exe
+/Users/eshpilevskiy/Projects/Fabric/Fabric/bin/Debug/Fabric.pdb
+/Users/eshpilevskiy/Projects/Fabric/Fabric/obj/x86/Debug/Fabric.csproj.CoreCompileInputs.cache
+/Users/eshpilevskiy/Projects/Fabric/Fabric/obj/x86/Debug/Fabric.exe
+/Users/eshpilevskiy/Projects/Fabric/Fabric/obj/x86/Debug/Fabric.pdb

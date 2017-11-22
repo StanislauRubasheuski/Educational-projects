@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{DADA05D8-05C3-4EB4-8526-3033D91A46D4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/Single4.cs">
+    <Files>
+      <File FileName="Singleton/Program.cs" Line="14" Column="28" />
+      <File FileName="Singleton/Single.cs" Line="5" Column="6" />
+      <File FileName="Singleton/Single2.cs" Line="6" Column="9" />
+      <File FileName="Singleton/Single3.cs" Line="14" Column="10" />
+      <File FileName="Singleton/Single4.cs" Line="11" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

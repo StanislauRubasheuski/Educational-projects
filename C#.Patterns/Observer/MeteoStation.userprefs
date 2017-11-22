@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{95A1E06D-7A2C-4091-8345-D3403537BE09}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MeteoStation/CurrentCondition.cs">
+    <Files>
+      <File FileName="MeteoStation/Program.cs" Line="16" Column="50" />
+      <File FileName="MeteoStation/Subject.cs" Line="7" Column="39" />
+      <File FileName="MeteoStation/Observer.cs" Line="6" Column="63" />
+      <File FileName="MeteoStation/DisplayElement.cs" Line="6" Column="24" />
+      <File FileName="MeteoStation/WeatherData.cs" Line="49" Column="35" />
+      <File FileName="MeteoStation/CurrentCondition.cs" Line="25" Column="83" />
+      <File FileName="MeteoStation/Statistics.cs" Line="27" Column="23" />
+      <File FileName="MeteoStation/Forecast.cs" Line="23" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MeteoStation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

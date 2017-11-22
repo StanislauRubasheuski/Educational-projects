@@ -1,0 +1,5 @@
+/Users/eshpilevskiy/Projects/Singleton/Singleton/bin/Debug/Singleton.exe
+/Users/eshpilevskiy/Projects/Singleton/Singleton/bin/Debug/Singleton.pdb
+/Users/eshpilevskiy/Projects/Singleton/Singleton/obj/x86/Debug/Singleton.csproj.CoreCompileInputs.cache
+/Users/eshpilevskiy/Projects/Singleton/Singleton/obj/x86/Debug/Singleton.exe
+/Users/eshpilevskiy/Projects/Singleton/Singleton/obj/x86/Debug/Singleton.pdb

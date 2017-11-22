@@ -1,0 +1,5 @@
+/Users/eshpilevskiy/Projects/LongersClass/LongersClass/bin/Debug/LongersClass.exe
+/Users/eshpilevskiy/Projects/LongersClass/LongersClass/bin/Debug/LongersClass.pdb
+/Users/eshpilevskiy/Projects/LongersClass/LongersClass/obj/x86/Debug/LongersClass.csproj.CoreCompileInputs.cache
+/Users/eshpilevskiy/Projects/LongersClass/LongersClass/obj/x86/Debug/LongersClass.exe
+/Users/eshpilevskiy/Projects/LongersClass/LongersClass/obj/x86/Debug/LongersClass.pdb

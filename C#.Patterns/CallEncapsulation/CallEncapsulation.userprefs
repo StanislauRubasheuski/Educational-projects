@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{177F76E1-380A-4016-92D8-57000E01C9B8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CallEncapsulation/Program.cs">
+    <Files>
+      <File FileName="CallEncapsulation/Program.cs" Line="62" Column="50" />
+      <File FileName="CallEncapsulation/Command.cs" Line="7" Column="21" />
+      <File FileName="CallEncapsulation/Light.cs" Line="21" Column="6" />
+      <File FileName="CallEncapsulation/LightOnCommand.cs" Line="20" Column="25" />
+      <File FileName="CallEncapsulation/SimpleRemoteControl.cs" Line="19" Column="1" />
+      <File FileName="CallEncapsulation/GarageDoor.cs" Line="11" Column="27" />
+      <File FileName="CallEncapsulation/GarageDoorOpen.cs" Line="18" Column="17" />
+      <File FileName="CallEncapsulation/RemoteControl.cs" Line="43" Column="32" />
+      <File FileName="CallEncapsulation/NoCommand.cs" Line="17" Column="1" />
+      <File FileName="CallEncapsulation/LightOffCommand.cs" Line="22" Column="6" />
+      <File FileName="CallEncapsulation/Stereo.cs" Line="9" Column="10" />
+      <File FileName="CallEncapsulation/StereoOnWithCDCommand.cs" Line="22" Column="26" />
+      <File FileName="CallEncapsulation/StereoOffCommand.cs" Line="21" Column="10" />
+      <File FileName="CallEncapsulation/GarageDoorDownCommand.cs" Line="21" Column="10" />
+      <File FileName="CallEncapsulation/CeilingFan.cs" Line="41" Column="25" />
+      <File FileName="CallEncapsulation/CeilingFanHIGHspeedCommand.cs" Line="6" Column="9" />
+      <File FileName="CallEncapsulation/CeilingFanMEDIUMspeedCommand.cs" Line="14" Column="9" />
+      <File FileName="CallEncapsulation/CeilingFanLOWspeedCommand.cs" Line="14" Column="9" />
+      <File FileName="CallEncapsulation/CeilingFanOFFcommand.cs" Line="18" Column="10" />
+      <File FileName="CallEncapsulation/MacroCommand.cs" Line="24" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CallEncapsulation PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

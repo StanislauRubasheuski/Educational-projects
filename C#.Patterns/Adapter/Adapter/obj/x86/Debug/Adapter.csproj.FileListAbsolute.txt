@@ -1,0 +1,5 @@
+/Users/eshpilevskiy/Projects/Adapter/Adapter/bin/Debug/Adapter.exe
+/Users/eshpilevskiy/Projects/Adapter/Adapter/bin/Debug/Adapter.pdb
+/Users/eshpilevskiy/Projects/Adapter/Adapter/obj/x86/Debug/Adapter.csproj.CoreCompileInputs.cache
+/Users/eshpilevskiy/Projects/Adapter/Adapter/obj/x86/Debug/Adapter.exe
+/Users/eshpilevskiy/Projects/Adapter/Adapter/obj/x86/Debug/Adapter.pdb

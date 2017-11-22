@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5BAC247B-5E96-4829-A582-416F302EE70E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Decorator/Whip.cs">
+    <Files>
+      <File FileName="Decorator/Program.cs" Line="2" Column="1" />
+      <File FileName="Decorator/Beverage.cs" Line="14" Column="1" />
+      <File FileName="Decorator/CondimentDecorator.cs" Line="9" Column="1" />
+      <File FileName="Decorator/Expresso.cs" Line="16" Column="9" />
+      <File FileName="Decorator/HouseBlend.cs" Line="19" Column="10" />
+      <File FileName="Decorator/DarkRoar.cs" Line="19" Column="10" />
+      <File FileName="Decorator/Decaf.cs" Line="22" Column="1" />
+      <File FileName="Decorator/Mocha.cs" Line="21" Column="10" />
+      <File FileName="Decorator/Soy.cs" Line="23" Column="2" />
+      <File FileName="Decorator/Whip.cs" Line="10" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/eshpilevskiy/Projects/Decorator/Decorator/CondimentDecorator.cs" relfile="Decorator/CondimentDecorator.cs" line="6" column="49" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Decorator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

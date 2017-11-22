@@ -1,0 +1,10 @@
+﻿using System;
+namespace MeteoStation
+{
+    public interface Subject
+    {
+        void RegisterObserver(Observer o);
+        void RemoveObserver(Observer o);
+        void NotifyObserver();
+    }
+}

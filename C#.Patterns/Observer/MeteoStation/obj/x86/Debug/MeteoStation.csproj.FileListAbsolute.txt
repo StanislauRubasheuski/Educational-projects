@@ -1,0 +1,5 @@
+/Users/eshpilevskiy/Projects/MeteoStation/MeteoStation/bin/Debug/MeteoStation.exe
+/Users/eshpilevskiy/Projects/MeteoStation/MeteoStation/bin/Debug/MeteoStation.pdb
+/Users/eshpilevskiy/Projects/MeteoStation/MeteoStation/obj/x86/Debug/MeteoStation.csproj.CoreCompileInputs.cache
+/Users/eshpilevskiy/Projects/MeteoStation/MeteoStation/obj/x86/Debug/MeteoStation.exe
+/Users/eshpilevskiy/Projects/MeteoStation/MeteoStation/obj/x86/Debug/MeteoStation.pdb

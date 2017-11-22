@@ -1,0 +1,5 @@
+/Users/eshpilevskiy/Projects/Decorator/Decorator/bin/Debug/Decorator.exe
+/Users/eshpilevskiy/Projects/Decorator/Decorator/bin/Debug/Decorator.pdb
+/Users/eshpilevskiy/Projects/Decorator/Decorator/obj/x86/Debug/Decorator.csproj.CoreCompileInputs.cache
+/Users/eshpilevskiy/Projects/Decorator/Decorator/obj/x86/Debug/Decorator.exe
+/Users/eshpilevskiy/Projects/Decorator/Decorator/obj/x86/Debug/Decorator.pdb

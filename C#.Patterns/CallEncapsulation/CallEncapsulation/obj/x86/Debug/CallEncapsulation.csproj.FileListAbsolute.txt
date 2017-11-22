@@ -1,0 +1,5 @@
+/Users/eshpilevskiy/Projects/CallEncapsulation/CallEncapsulation/bin/Debug/CallEncapsulation.exe
+/Users/eshpilevskiy/Projects/CallEncapsulation/CallEncapsulation/bin/Debug/CallEncapsulation.pdb
+/Users/eshpilevskiy/Projects/CallEncapsulation/CallEncapsulation/obj/x86/Debug/CallEncapsulation.csproj.CoreCompileInputs.cache
+/Users/eshpilevskiy/Projects/CallEncapsulation/CallEncapsulation/obj/x86/Debug/CallEncapsulation.exe
+/Users/eshpilevskiy/Projects/CallEncapsulation/CallEncapsulation/obj/x86/Debug/CallEncapsulation.pdb

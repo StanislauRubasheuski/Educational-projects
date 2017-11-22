@@ -1,0 +1,6 @@
+C:\Users\Traffic\source\repos\Duuuuuck\Duuuuuck\bin\Debug\Duuuuuck.exe
+C:\Users\Traffic\source\repos\Duuuuuck\Duuuuuck\bin\Debug\Duuuuuck.pdb
+C:\Users\Traffic\source\repos\Duuuuuck\Duuuuuck\obj\Debug\Duuuuuck.csprojResolveAssemblyReference.cache
+C:\Users\Traffic\source\repos\Duuuuuck\Duuuuuck\obj\Debug\Duuuuuck.csproj.CoreCompileInputs.cache
+C:\Users\Traffic\source\repos\Duuuuuck\Duuuuuck\obj\Debug\Duuuuuck.exe
+C:\Users\Traffic\source\repos\Duuuuuck\Duuuuuck\obj\Debug\Duuuuuck.pdb

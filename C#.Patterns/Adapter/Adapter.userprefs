@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E794BD33-F4BA-4D77-8C51-4A47C9F7F3C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter/Program.cs">
+    <Files>
+      <File FileName="Adapter/Program.cs" Line="23" Column="31" />
+      <File FileName="Adapter/Duck.cs" Line="6" Column="19" />
+      <File FileName="Adapter/MallarDuck.cs" Line="16" Column="2" />
+      <File FileName="Adapter/Turkey.cs" Line="7" Column="20" />
+      <File FileName="Adapter/WildTurkey.cs" Line="6" Column="29" />
+      <File FileName="Adapter/TurkeyAdapter.cs" Line="21" Column="30" />
+      <File FileName="Adapter/DuckAdapter.cs" Line="21" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Adapter PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
